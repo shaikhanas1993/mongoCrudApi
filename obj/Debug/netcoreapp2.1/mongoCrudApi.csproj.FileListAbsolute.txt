@@ -1,0 +1,14 @@
+/home/anas/Projects/mongoCrudApi/bin/Debug/netcoreapp2.1/mongoCrudApi.deps.json
+/home/anas/Projects/mongoCrudApi/bin/Debug/netcoreapp2.1/mongoCrudApi.runtimeconfig.json
+/home/anas/Projects/mongoCrudApi/bin/Debug/netcoreapp2.1/mongoCrudApi.runtimeconfig.dev.json
+/home/anas/Projects/mongoCrudApi/bin/Debug/netcoreapp2.1/mongoCrudApi.dll
+/home/anas/Projects/mongoCrudApi/bin/Debug/netcoreapp2.1/mongoCrudApi.pdb
+/home/anas/Projects/mongoCrudApi/obj/Debug/netcoreapp2.1/mongoCrudApi.csprojAssemblyReference.cache
+/home/anas/Projects/mongoCrudApi/obj/Debug/netcoreapp2.1/mongoCrudApi.csproj.CoreCompileInputs.cache
+/home/anas/Projects/mongoCrudApi/obj/Debug/netcoreapp2.1/mongoCrudApi.RazorAssemblyInfo.cache
+/home/anas/Projects/mongoCrudApi/obj/Debug/netcoreapp2.1/mongoCrudApi.RazorAssemblyInfo.cs
+/home/anas/Projects/mongoCrudApi/obj/Debug/netcoreapp2.1/mongoCrudApi.AssemblyInfoInputs.cache
+/home/anas/Projects/mongoCrudApi/obj/Debug/netcoreapp2.1/mongoCrudApi.AssemblyInfo.cs
+/home/anas/Projects/mongoCrudApi/obj/Debug/netcoreapp2.1/mongoCrudApi.RazorTargetAssemblyInfo.cache
+/home/anas/Projects/mongoCrudApi/obj/Debug/netcoreapp2.1/mongoCrudApi.dll
+/home/anas/Projects/mongoCrudApi/obj/Debug/netcoreapp2.1/mongoCrudApi.pdb
